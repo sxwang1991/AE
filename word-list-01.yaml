@@ -1,0 +1,109 @@
+# ==============================================================================
+# Word List 01
+# ==============================================================================
+
+element:   
+  title: element
+  text: __element__ [ˈelɪmənt] n. 元素
+
+set:   
+  title: set
+  text: __set__ [set] n. 集合
+  
+belong-to:   
+  title: belong to
+  text: __belong__ __to__ [bɪˈlɔːŋ] v. 属于
+  
+not-belong-to:   
+  title: not belong to
+  text: __not__ __belong__ __to__ [bɪˈlɔːŋ] v. 不属于 
+  
+subset:   
+  title: subset
+  text: __subset__ [set] n. 子集
+  
+proper-set:   
+  title: proper set
+  text: __proper__ __set__ [set] n. 真子集
+  
+empty-set:   
+  title: empty set
+  text: __empty__ __set__ [set] n. 空集
+  
+union-set:   
+  title: union-set
+  text: __union__ __set__ [set] n. 并集
+ 
+ intersection-set:   
+  title: intersection set
+  text: __intersection__ __set__ [set] n. 交集
+  
+ universe-set:   
+  title: universe set
+  text: __universe__ __set__ [set] n. 全集
+  
+complementary-set:   
+  title: set
+  text: __set__ [set] n. 集合
+  
+  set:   
+  title: set
+  text: __set__ [set] n. 集合
+  
+ set:   
+  title: set
+  text: __set__ [set] n. 集合
+ 
+ set:   
+  title: set
+  text: __set__ [set] n. 集合
+  
+ set:   
+  title: set
+  text: __set__ [set] n. 集合
+  
+  set:   
+  title: set
+  text: __set__ [set] n. 集合
+  
+  set:   
+  title: set
+  text: __set__ [set] n. 集合
+  
+ set:   
+  title: set
+  text: __set__ [set] n. 集合
+ 
+ set:   
+  title: set
+  text: __set__ [set] n. 集合
+  
+ set:   
+  title: set
+  text: __set__ [set] n. 集合
+  
+  set:   
+  title: set
+  text: __set__ [set] n. 集合
+  
+  set:   
+  title: set
+  text: __set__ [set] n. 集合
+  
+ set:   
+  title: set
+  text: __set__ [set] n. 集合
+ 
+ set:   
+  title: set
+  text: __set__ [set] n. 集合
+  
+ set:   
+  title: set
+  text: __set__ [set] n. 集合
+  
+  set:   
+  title: set
+  text: __set__ [set] n. 集合
+  
+  
